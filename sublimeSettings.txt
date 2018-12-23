@@ -1,0 +1,59 @@
+{
+	"always_show_minimap_viewport": false,
+	"args":
+	{
+		"name": "Packages/Babel Snippets/react_wrap.sublime-snippet"
+	},
+	"atomic_save": false,
+	"caret_extra_bottom": 3,
+	"caret_extra_top": 3,
+	"caret_extra_width": 2,
+	"color_scheme": "Packages/Monokai - Spacegray/Monokai - Spacegray Eighties.tmTheme",
+	"draw_minimap_border": false,
+	"font_face": "Fira Code Medium",
+	"font_size": 11,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+	],
+	"margin": 0,
+	"match_brackets": false,
+	"match_brackets_angle": false,
+	"match_brackets_braces": false,
+	"match_brackets_content": false,
+	"match_tags": false,
+	"minimap": false,
+	"overlay_scroll_bars": "enabled",
+	"show_minimap": false,
+	"tab_size": 2,
+	"theme": "Seti Monokai.sublime-theme",
+	"vintage_start_in_command_mode": true,
+	"word_wrap": true
+}
+
+// PACKAGE LIST
+
+- Babel
+- babel Snippets
+- bracketHighlighter
+- color highlight
+- ejs
+- ejs 2
+- emmet
+- handlebars
+- jsx
+- loremgibson
+- monokai - spacegray
+- monokai json+
+- monokai rich
+- monokai++
+- nodejs
+- package control
+- packageResourceViewwer
+- sass
+- seti_ui
+- sidebarenhancements
+- simplejsx
+- sublimeLinter-eslint
+- syntax highlight for sass
+- theme - seti monokai
